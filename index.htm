@@ -6,8 +6,9 @@
         <style>
 body
 {
-    background-image: url("../res/bg.jpg") ;
+    background-image: url("res/bg.jpg") ;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-size: 100%;
 }
 
@@ -15,6 +16,9 @@ body
 {
     text-align: center;
     background-color: rgba(71, 211, 253, 0.3);
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
     color: burlywood;
 }
 
@@ -25,12 +29,87 @@ body
     font-size: 64px;
     font-family: "DejaVu Sans Mono";
 }
+
+#info img
+{
+    width: 100px;
+    height: 100px;
+    vertical-align: middle;
+}
+
+#info
+{
+    padding-right: 10px;
+    font-size: 50px;
+    font-weight: 500;
+    color: rgb(59, 155, 35);
+}
+
+#intro
+{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.logo
+{
+    height: 100px;
+    vertical-align: middle;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.sect
+{
+    font-size: 50px;
+    font-weight: 500;
+    color: rgb(59, 155, 35);
+}
+
+.image
+{
+    background-color: rgba(129, 226, 255, 0.3);
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.image img
+{
+    vertical-align: middle;
+}
+
         </style>
     </head>
     <body>
         <div id="main-container">
             <div id="headline">
-                <h1 class="pad">Title</h1>
+                <h1 class="pad">lanlan2_的个人网站</h1>
+            </div>
+            <div id="info">
+                <h1 class="sect">个人简介</h1>
+                <p id="intro"><img src="res/mc.jpg" title="头像（哈哈，逗你玩的）">&nbsp;&nbsp;&nbsp;&nbsp;这是一段介绍这是一段介绍这是一段介绍这是一段介绍这是一段介绍这是一段介绍这是一段介绍这是一段介绍这是一段介绍这是一段介绍这是一段介绍这是一段介绍这是一段介绍这是一段介绍这是一段介绍这是一段介绍这是一段介绍这是一段介绍这是一段介绍这是一段介绍这是一段介绍这是一段介绍这是一段介绍这是一段介绍</p>
+            </div>
+            <div class="show">
+                <h1 class="sect">成果展示</h1>
+                <div class="image">
+                    <img src="res/2048.png">这是一段描述这是一段描述
+                </div>
+                <div class="image">
+                    <img src="res/picd.JPG">这是一段描述这是一段描述
+                </div>
+                <div class="image">
+                    <img src="res/window.JPG">这是一段描述这是一段描述
+                </div>
+                <div class="image">
+                    <img src="res/maze.JPG">这是一段描述这是一段描述
+                </div>
+            </div>
+            <div class="link">
+                <h1 class="sect">友情链接</h1>
+                <a href="https://github.com/areacloser"><img class="logo" src="res/github.jpg"></a>
             </div>
         </div>
     </body>
