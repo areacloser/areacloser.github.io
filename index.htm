@@ -148,6 +148,23 @@ body
                     </tr>
                 </table>
             </div>
+            <div>
+                <audio id="summer" src="res/Summer.mp3" loop controls>Not Support</audio>
+            </div>
+            <script type="text/javascript">
+                window.onload = function(){
+             setInterval("toggleSound()",100);
+        }
+
+    function toggleSound() {
+                var music = document.getElementById("summer"); 
+                    
+                if (music.paused) { 
+                    music.paused=false;
+                    music.play();
+                }    
+        }
+            </script>
         </div>
     </body>
 </html>
