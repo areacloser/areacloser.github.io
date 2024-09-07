@@ -27,6 +27,7 @@ description: 只是想水字数而已
   - [《肖申克的救赎》](https://movie.douban.com/subject/1292052/)
   - [《盗梦空间》](https://movie.douban.com/subject/3541415/)
   - [《我不是药神》](https://movie.douban.com/subject/26752088/)
+  - [《心灵奇旅》](https://movie.douban.com/subject/24733428/)
   
 看到一半的电影：  
   - 《间谍过家家：代号白》
