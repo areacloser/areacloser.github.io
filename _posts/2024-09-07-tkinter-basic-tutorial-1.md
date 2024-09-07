@@ -15,7 +15,7 @@ description: 前言
 
 `Tkinter`是一个知名的GUI（Graphical User Interface, 图形用户界面）库，是tcl/tk的Python接口，它从`Python`那里继承了简洁，优雅，跨平台等特点，易于学习，是接触图形编程的良好启蒙，这个教程将会从基础开始，让读者学习`Tkinter`的知识，并逐步掌握其中的设计理念。
 
-```Python
+```python
 import tkinter
 
 root = tkinter.Tk()
