@@ -50,7 +50,7 @@ _看来背景不错_
 
 ### GitCode事件
 
-![GitCode图标](https://i-blog.csdnimg.cn/blog_migrate/6b9131f83bd16d404ee177675d0c86ff.png)
+![GitCode图标](https://img.picui.cn/free/2024/09/17/66e93740e41c3.png)
 _真的会有人用吗_
 
 {% include embed/bilibili.html id='BV1qx4y14777' %}
