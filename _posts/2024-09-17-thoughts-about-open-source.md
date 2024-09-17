@@ -11,19 +11,19 @@ description: 在开源精神式微的今天，产生的一点思考
 
 ### “国产IDE”
 
-![CEC-IDE官网快照]("https://static.oschina.net/uploads/space/2023/0824/190218_AxW8_2720166.png")
+![CEC-IDE官网快照](https://static.oschina.net/uploads/space/2023/0824/190218_AxW8_2720166.png)
 _现在已经无法访问了_
 
 去年八月，我们隆重地迎来了“国内首款适配国产操作系统、自主可控的集成开发环境工具“：`CEC-IDE`。老实说，这件事自始自终都是彻底的笑话，我也哭笑不得————过了二十多年，我们的山寨和搞笑水平都还是世界一流的。
 
 这是知乎网友做的`VSCodium`与`CEC-IDE`拆包对比：
 
-![VSCodium与CEC-IDE拆包对比]("https://pic1.zhimg.com/v2-14e624bd1dbace5ffe9f71e28b3081b7_r.jpg?source=1def8aca")
+![VSCodium与CEC-IDE拆包对比](https://pic1.zhimg.com/v2-14e624bd1dbace5ffe9f71e28b3081b7_r.jpg?source=1def8aca)
 _不能说一模一样，只能道十分甚至有九分的相似_
 
 下图是其所属“研发团队”的门户网站，只能说我们广东作为信息化先锋，连整活也要走在前头。
 
-![数字广东]("https://picx.zhimg.com/80/v2-56d7c66852e0a92de78a3a0f4fca512c_720w.webp?source=1def8aca")
+![数字广东](https://picx.zhimg.com/80/v2-56d7c66852e0a92de78a3a0f4fca512c_720w.webp?source=1def8aca)
 _看来背景不错_
 
 ### 博客园的倒下
