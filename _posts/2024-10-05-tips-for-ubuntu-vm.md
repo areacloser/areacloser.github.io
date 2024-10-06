@@ -109,7 +109,7 @@ _LX Music_
 
 正常情况下，刚安装好的Ubuntu的默认语言是英语，即`locale`是`en`。更换为中文不是必需的，但我仍然建议大家换掉，因为这会影响后续图形化的语言配置。当然，如果对自己的英语水平有足够的信心，就当我没说。
 
-想要更换语言，需要在命令行中执行以下操作[^脚注1]：
+想要更换语言，需要在命令行中执行以下操作[^fn1]：
 
 ```bash
 sudo apt-get install language-pack-zh-hans
@@ -150,7 +150,7 @@ sudo apt update
 sudo apt install -y curl
 ```
 
-然后键入以下命令安装TMOE管理器[^脚注2]：
+然后键入以下命令安装TMOE管理器[^fn2]：
 
 ```bash
 bash -c "$(curl -L gitee.com/mo2/linux/raw/2/2)"
@@ -187,9 +187,9 @@ bash -c "$(curl -L gitee.com/mo2/linux/raw/2/2)"
 
 这是我遇到的一个奇怪的问题。在桌面环境闲置一段时间后整个虚拟机会被自动挂起（suspend），即SSH和VNC乃至虚拟机界面全都卡死无法操作。在我眼中这跟死机没有任何不同，但之前在手机上使用PRoot容器配置桌面环境时从未出现过这个问题
 
-我尝试过禁用虚拟机的挂起功能，也曾尝试修改`/etc/systemd/logind.conf`{: .filepath}[^脚注3]，还查看过Xfce设置中的电源选项，但都无功而返。
+我尝试过禁用虚拟机的挂起功能，也曾尝试修改`/etc/systemd/logind.conf`{: .filepath}[^fn3]，还查看过Xfce设置中的电源选项，但都无功而返。
 
-最后禁用了系统休眠服务就解决了，方法如下[^脚注4]：
+最后禁用了系统休眠服务就解决了，方法如下[^fn4]：
 
 1. 在终端中输入命令：
 
@@ -287,7 +287,7 @@ _这是为什么呢_
 
 ## 脚注
 
-[^脚注1]: [ubuntu 22.04 server设置中文 - 知乎](https://zhuanlan.zhihu.com/p/641482808)
-[^脚注2]: [Tmoe-linux：在Android 和Windows10上一键安装 GNU/Linux容器 - 我的旅游记录](https://haohe.fun/2021/04/tmoe-linux%EF%BC%9A%E5%9C%A8android-%E5%92%8Cwindows10%E4%B8%8A%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85-gnu-linux%E5%AE%B9%E5%99%A8
-[^脚注3]: [ubuntu使用－ubuntu22.04关闭自动挂起功能 - 博客园](https://www.cnblogs.com/nangongergou/p/18042535)
-[^脚注4]: [Ubuntu防止休眠和挂起（笔记） - CSDN](https://blog.csdn.net/VictoriaLy/article/details/134684502)
+[^fn1]: [ubuntu 22.04 server设置中文 - 知乎](https://zhuanlan.zhihu.com/p/641482808)
+[^fn2]: [Tmoe-linux：在Android 和Windows10上一键安装 GNU/Linux容器 - 我的旅游记录](https://haohe.fun/2021/04/tmoe-linux%EF%BC%9A%E5%9C%A8android-%E5%92%8Cwindows10%E4%B8%8A%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85-gnu-linux%E5%AE%B9%E5%99%A8
+[^fn3]: [ubuntu使用－ubuntu22.04关闭自动挂起功能 - 博客园](https://www.cnblogs.com/nangongergou/p/18042535)
+[^fn4]: [Ubuntu防止休眠和挂起（笔记） - CSDN](https://blog.csdn.net/VictoriaLy/article/details/134684502)
