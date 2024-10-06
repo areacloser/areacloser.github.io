@@ -239,7 +239,7 @@ _FiraCode截图_
 
 由于Ubuntu软件源比较落后，很多程序用`apt`都下不了最新版本，比如Neovim，通用稳定版都出到0.10了，Ubuntu还在倒腾0.6的版本。无奈我只能使用Unstable不稳定源，结果就是电脑上Neovim每天都更新而且bug奇多。
 
-![我的Neovim现状]("https://i.ibb.co/YWVh93m/nvim.png)
+![我的Neovim现状](https://i.ibb.co/YWVh93m/nvim.png)
 _已经彻底废了_
 
 至于Emacs，我之前在手机上也曾尝试过配置，但仍以失败告终，现在它在我桌面上只是个摆设了。
