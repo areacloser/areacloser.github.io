@@ -288,6 +288,6 @@ _这是为什么呢_
 ## 脚注
 
 [^fn1]: [ubuntu 22.04 server设置中文 - 知乎](https://zhuanlan.zhihu.com/p/641482808)
-[^fn2]: [Tmoe-linux：在Android 和Windows10上一键安装 GNU/Linux容器 - 我的旅游记录](https://haohe.fun/2021/04/tmoe-linux%EF%BC%9A%E5%9C%A8android-%E5%92%8Cwindows10%E4%B8%8A%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85-gnu-linux%E5%AE%B9%E5%99%A8
+[^fn2]: [Tmoe-linux：在Android 和Windows10上一键安装 GNU/Linux容器 - 我的旅游记录](https://haohe.fun/2021/04/tmoe-linux%EF%BC%9A%E5%9C%A8android-%E5%92%8Cwindows10%E4%B8%8A%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85-gnu-linux%E5%AE%B9%E5%99%A8)
 [^fn3]: [ubuntu使用－ubuntu22.04关闭自动挂起功能 - 博客园](https://www.cnblogs.com/nangongergou/p/18042535)
 [^fn4]: [Ubuntu防止休眠和挂起（笔记） - CSDN](https://blog.csdn.net/VictoriaLy/article/details/134684502)
