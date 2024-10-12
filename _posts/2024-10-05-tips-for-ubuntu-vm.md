@@ -7,7 +7,8 @@ tags: [virtual-machine, ubuntu]
 description: 配置 Ubuntu 虚拟机我踩过的坑和一些提示，可用于借鉴
 image:
   path: https://i.ibb.co/V2cK8fz/DM-20241006112629-001.png
-  alt: 标题图片
+  lqip: data:image/webp;base64,UklGRtIAAABXRUJQVlA4WAoAAAAQAAAADwAACAAAQUxQSEUAAAARL6AmAAE2po13fUREQNwLVpEkO+n3FLxH+EcEDigEpPUvhqAhov8K27ZBOubdQdvWAkcyw53saElSWB7Ur/qkf8Z8/gYAVlA4IGYAAAAQAgCdASoQAAkABUB8JbACdDBDyIeLCNLoANtvLsKWJeD8Kd7NKqtpoXaOp79b9NKGZvchLg6/oXmdpH1+o0qAD9l0xGlB9JMi0/+6SJtCCn+7K4R3Hcs+CdZe/qb26W1e/oAAAAA=
+  alt: Ubuntu图标
 ---
 
 ## 前言
